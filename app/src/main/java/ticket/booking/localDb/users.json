@@ -17,11 +17,16 @@
             [0,0,0,0,0,0],
             [0,0,0,0,0,0]
           ],
-          "stations": {
+          "station_times": {
             "Tatanagar" : "13:50:00",
             "Kharagpur" : "13:50:00",
             "Securendabad" : "13:50:00"
-          }
+          },
+          "stations": [
+            "Tatanagar",
+            "Kharagpur",
+            "Securendabad"
+          ]
         }
       }
     ]
