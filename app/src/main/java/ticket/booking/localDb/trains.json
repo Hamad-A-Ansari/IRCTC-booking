@@ -1,0 +1,42 @@
+[
+  {
+    "train_id": "SER18ER2",
+    "train_no": 18082,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "Tatanagar" : "13:50:00",
+      "Kharagpur" : "13:50:00",
+      "Securendabad" : "13:50:00"
+    },
+    "stations": [
+      "Tatanagar",
+      "Kharagpur",
+      "Securendabad"
+    ]
+  },
+  {
+    "train_id": "SER20DW1",
+    "train_no": 20245,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "Howrah" : "13:50:00",
+      "Kharagpur" : "13:50:00",
+      "Chaibasa" : "13:50:00"
+    },
+    "stations": [
+      "Howrah",
+      "Kharagpur",
+      "Chaibasa"
+    ]
+  }
+]
